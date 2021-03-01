@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "three": "^0.117.1",
+    "three": "^0.125.0",
     "three-trackballcontrols": "^0.0.8"
   },
   "devDependencies": {
